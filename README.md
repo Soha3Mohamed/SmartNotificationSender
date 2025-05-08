@@ -1,4 +1,4 @@
-#Smart Notification Sender
+# Smart Notification Sender
 A lightweight, customizable tool for sending notifications efficiently. Ideal for use in personal productivity apps, reminders, or internal tools.
 
 Features
